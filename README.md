@@ -1,10 +1,10 @@
+该模板由andy123t制作，[原作者andy123t的GitHub主页](https://github.com/andy123t)，[原作者andy123t的GitHub仓库](https://github.com/andy123t/GMCMthesis)
+
 本模板适用于 2022 研究生数学建模竞赛.
 
 格式上参考了官方研究生数学建模 Word 模板和规范，符合研究生数学建模论文的要求；
 
 有两个版本（表格是彩色或者黑白的），`example-color.tex`的表格是彩色的，`example.tex`的表格是黑白的
-
-[原作者andy123t的GitHub仓库](https://github.com/andy123t/GMCMthesis)
 
 # 以下是原作者写的readme
 ## 2022 全国研究生数学建模竞赛 LaTeX 论文模板
