@@ -1,6 +1,6 @@
 该模板由andy123t制作，[原作者andy123t的GitHub主页](https://github.com/andy123t)，[原作者andy123t的GitHub仓库](https://github.com/andy123t/GMCMthesis)
 
-本模板适用于 2022 研究生数学建模竞赛.
+本模板适用于 2022 研究生数学建模竞赛。使用`xelatex`进行编译
 
 格式上参考了官方研究生数学建模 Word 模板和规范，符合研究生数学建模论文的要求；
 
